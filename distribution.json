@@ -8,7 +8,7 @@
     },
     "servers": [
         {
-            "id": "Universalkraft-full-1.20.1",
+            "id": "UniversalCraft-Full-1.20.1",
             "name": "UniversalCraft Full",
             "description": "РџРѕР»РЅР°СЏ СЃР±РѕСЂРєР° СЃ С€РµР№РґРµСЂР°РјРё Рё СЂРµСЃСѓСЂСЃРїР°РєР°РјРё",
             "icon": null,
@@ -434,7 +434,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 6772753,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/[forge]ctov-3.4.14.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/[forge]ctov-3.4.14.jar",
                         "MD5": "382d0881db0828470c219dd5d0789132"
                     }
                 },
@@ -444,7 +444,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1051803,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/AdditionalEnchantedMiner-1.20.1-1201.1.136.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/AdditionalEnchantedMiner-1.20.1-1201.1.136.jar",
                         "MD5": "532b7457496c1a9a33f551b9ec7d7541"
                     }
                 },
@@ -454,7 +454,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3157057,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/additionallanterns-1.1.2-forge-mc1.20.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/additionallanterns-1.1.2-forge-mc1.20.2.jar",
                         "MD5": "3a2835772d067046c7fbba8aff1a00f1"
                     }
                 },
@@ -464,7 +464,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 228960,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ae2wtlib-15.3.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ae2wtlib-15.3.1-forge.jar",
                         "MD5": "91c10c49ecea8f771aef27de03da0dec"
                     }
                 },
@@ -474,7 +474,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 772814,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/AEAdditions-1.20.1-5.1.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/AEAdditions-1.20.1-5.1.1.jar",
                         "MD5": "f5faa27086bf9cd33526b6873dc9eebd"
                     }
                 },
@@ -484,7 +484,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 15906,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
                         "MD5": "20f9b054f4caceebda02847c149901af"
                     }
                 },
@@ -494,7 +494,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1294274,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/amendments-1.20-2.2.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/amendments-1.20-2.2.3.jar",
                         "MD5": "b1013e74d5c4ef229d93bf571968a1f0"
                     }
                 },
@@ -504,7 +504,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2803994,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Apotheosis-1.20.1-7.4.8.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Apotheosis-1.20.1-7.4.8.jar",
                         "MD5": "db02304c99d20ff51d4c2427d33c9044"
                     }
                 },
@@ -514,7 +514,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 227511,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
                         "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
                     }
                 },
@@ -524,7 +524,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 255276,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/applied-botanics-forge-1.5.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/applied-botanics-forge-1.5.2.jar",
                         "MD5": "0888acd9e5e882ea85046262fc2f7e70"
                     }
                 },
@@ -534,7 +534,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 8495956,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/appliedenergistics2-forge-15.4.10.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/appliedenergistics2-forge-15.4.10.jar",
                         "MD5": "69e47ebd80184d34176cebeb6233a234"
                     }
                 },
@@ -544,7 +544,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 580602,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
                         "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
                     }
                 },
@@ -554,7 +554,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 850457,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
                         "MD5": "85081468e7498005f5dfdab2ae520097"
                     }
                 },
@@ -564,7 +564,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 460234,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/BadOptimizations-2.4.1-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/BadOptimizations-2.4.1-1.20.1.jar",
                         "MD5": "f8dd994ef309213c5dae5cbeef53123c"
                     }
                 },
@@ -574,7 +574,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 30312,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-1.1.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-1.1.1.jar",
                         "MD5": "558b2a3c6ed2caa44883e551580c0845"
                     }
                 },
@@ -584,7 +584,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 590487,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.37-all.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.37-all.jar",
                         "MD5": "d1a4f41280905b9268dd517e403b2160"
                     }
                 },
@@ -594,7 +594,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 12195508,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Botania-1.20.1-450-FORGE.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Botania-1.20.1-450-FORGE.jar",
                         "MD5": "f4ce35424e81996520657abf504d714a"
                     }
                 },
@@ -604,7 +604,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 157633,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/botarium-forge-1.20.1-2.3.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/botarium-forge-1.20.1-2.3.4.jar",
                         "MD5": "c204f9d834da78a3972fc98da96730aa"
                     }
                 },
@@ -614,7 +614,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1358270,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/BrandonsCore-1.20.1-3.2.1.302-universal.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/BrandonsCore-1.20.1-3.2.1.302-universal.jar",
                         "MD5": "eab7f3e470ed31562bd3c6abb0fda6ce"
                     }
                 },
@@ -624,7 +624,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 40125,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
                         "MD5": "ac909c99a2a96ead2073f98bf0dd7b78"
                     }
                 },
@@ -634,7 +634,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 594191,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
                         "MD5": "1bd8bdb43c190ddc671c5ea0bf3b8cb1"
                     }
                 },
@@ -644,7 +644,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 439457,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
                         "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
                     }
                 },
@@ -654,7 +654,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 718678,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/chat_heads-0.14.2-forge-1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/chat_heads-0.14.2-forge-1.20.jar",
                         "MD5": "90c7b2c8dd6b9001528c5d741152b784"
                     }
                 },
@@ -664,7 +664,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 155478,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/chunkloaders-1.2.9-forge-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/chunkloaders-1.2.9-forge-mc1.20.1.jar",
                         "MD5": "c5522e61b188ce0637ea042116e39e85"
                     }
                 },
@@ -674,7 +674,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 943520,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/clientsort-forge-2.2.0+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/clientsort-forge-2.2.0+1.20.1.jar",
                         "MD5": "96796660a4298cf6847e65093fc5389e"
                     }
                 },
@@ -684,7 +684,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1181413,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
                         "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
                     }
                 },
@@ -694,7 +694,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1472390,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
                         "MD5": "5c2f4b34587c6596d1d50e5bf76ee448"
                     }
                 },
@@ -704,7 +704,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1989232,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/copycats-3.0.4+mc.1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/copycats-3.0.4+mc.1.20.1-forge.jar",
                         "MD5": "514e934a83732ed6c5fd9ce28cfbe312"
                     }
                 },
@@ -714,7 +714,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 64187,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
                         "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
                     }
                 },
@@ -724,7 +724,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 245643,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
                         "MD5": "dd13eed6de02864d464437c640ff7452"
                     }
                 },
@@ -734,7 +734,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 24680,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-3.1.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-3.1.2.jar",
                         "MD5": "5e0ed6620f6576535e429ffe278442ef"
                     }
                 },
@@ -744,7 +744,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 12050,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/crafts12-1.0.2-forge-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/crafts12-1.0.2-forge-1.20.1.jar",
                         "MD5": "26bae3ce7783df8be9728de27c829d71"
                     }
                 },
@@ -754,7 +754,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 19170905,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
                         "MD5": "6ebc5c57638c1678359eac65b924c310"
                     }
                 },
@@ -764,7 +764,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 603827,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/create-new-age-forge-1.20.1-1.1.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/create-new-age-forge-1.20.1-1.1.4.jar",
                         "MD5": "530242d3bc62718f350e0c656ae37b1f"
                     }
                 },
@@ -774,7 +774,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1577313,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/createaddition-1.20.1-1.3.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/createaddition-1.20.1-1.3.3.jar",
                         "MD5": "1c0d2275ead3e4756d77ac5a86f135ab"
                     }
                 },
@@ -784,7 +784,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3978723,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/createbigcannons-5.9.1+mc.1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/createbigcannons-5.9.1+mc.1.20.1-forge.jar",
                         "MD5": "2d96f4730efd826ad8191fb6d68aaad2"
                     }
                 },
@@ -794,7 +794,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 88862,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/createcontraptionterminals-1.20-1.2.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/createcontraptionterminals-1.20-1.2.0.jar",
                         "MD5": "4face2b385af6c782e5c9993da2c1bc8"
                     }
                 },
@@ -804,7 +804,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3509013,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
                         "MD5": "3e0976b862fd087493c7356f623f5cd7"
                     }
                 },
@@ -814,7 +814,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3126049,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.3.9.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.3.9.jar",
                         "MD5": "42e19c9aa15df7d620d87b0a4629d41f"
                     }
                 },
@@ -824,7 +824,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1143788,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
                         "MD5": "a58f958ab8b789af3c6b3a9d93ca415d"
                     }
                 },
@@ -834,7 +834,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 431318,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
                         "MD5": "b52e8b225a34abab9300049c85f6855a"
                     }
                 },
@@ -844,7 +844,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 97480,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cullleaves-forge-4.1.1+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cullleaves-forge-4.1.1+1.20.1.jar",
                         "MD5": "21f30cc07b65b91d607a2877a24d3f57"
                     }
                 },
@@ -854,7 +854,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 29505,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cupboard-1.20.1-3.5.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cupboard-1.20.1-3.5.jar",
                         "MD5": "dd9374715d8879fab601e7c07c807811"
                     }
                 },
@@ -864,7 +864,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 398066,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
                         "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
                     }
                 },
@@ -874,7 +874,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 258613,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cwb-forge-3.0.0+mc1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cwb-forge-3.0.0+mc1.20.jar",
                         "MD5": "71c31fd8c44e94876c520c3f58fcd95b"
                     }
                 },
@@ -884,7 +884,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 686923,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/cyberspace%202.2.0%20(F1.20.1).jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/cyberspace%202.2.0%20(F1.20.1).jar",
                         "MD5": "5a6c62c331264953047a5add77b1ec2d"
                     }
                 },
@@ -894,7 +894,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 10670694,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/dimdoors-5.4.1-1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/dimdoors-5.4.1-1.20.1-forge.jar",
                         "MD5": "2eeb18dfb8050d6de003bb711b6effd8"
                     }
                 },
@@ -904,7 +904,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 5934411,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Draconic-Evolution-1.20.1-3.1.2.621-universal.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Draconic-Evolution-1.20.1-3.1.2.621-universal.jar",
                         "MD5": "3cc3a649bfe7cebd88b87d5aa9d25a83"
                     }
                 },
@@ -914,7 +914,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 8187,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/effecttimerhud-1.0.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/effecttimerhud-1.0.1.jar",
                         "MD5": "821140e189e8d36b952852075df0b72c"
                     }
                 },
@@ -924,7 +924,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2285317,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/effortlessbuilding-1.20.1-3.10.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/effortlessbuilding-1.20.1-3.10.jar",
                         "MD5": "a57660341d13ed1cc5d4f1dae9f79e20"
                     }
                 },
@@ -934,7 +934,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1320675,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
                         "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
                     }
                 },
@@ -944,7 +944,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 680255,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
                         "MD5": "636c62379cd7c5201a70fd457808e331"
                     }
                 },
@@ -954,7 +954,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 177441,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
                         "MD5": "db4c0ba3b2dc964f8f978305e7f26a35"
                     }
                 },
@@ -964,7 +964,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 678495,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/entity_model_features_1.20.1-forge-3.0.11.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/entity_model_features_1.20.1-forge-3.0.11.jar",
                         "MD5": "7504a18a68a7d01f95efa52f218107aa"
                     }
                 },
@@ -974,7 +974,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 926386,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/entity_texture_features_1.20.1-forge-7.0.9.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/entity_texture_features_1.20.1-forge-7.0.9.jar",
                         "MD5": "546224e019d93830f9bc9130ff0828f5"
                     }
                 },
@@ -984,7 +984,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 477372,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/entityculling-forge-1.9.2-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/entityculling-forge-1.9.2-mc1.20.1.jar",
                         "MD5": "e756916c39c6cae945c321c3bb2ab0f9"
                     }
                 },
@@ -994,7 +994,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 189530,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/epicterrain-0.2.5.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/epicterrain-0.2.5.jar",
                         "MD5": "72da8f1464080d475e3e9cf1e973420a"
                     }
                 },
@@ -1004,7 +1004,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 220040,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ExtraSoundsNext-forge-1.20.1-1.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ExtraSoundsNext-forge-1.20.1-1.4.jar",
                         "MD5": "a7a4a78be691206fd0d60e4fd72fd07e"
                     }
                 },
@@ -1014,7 +1014,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 420181,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/FallingTree-1.20.1-4.3.4.jar",
                         "MD5": "260303e64027dabb008d5b8ee4f39a7e"
                     }
                 },
@@ -1024,7 +1024,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2978080,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
                         "MD5": "71e177a98e0e6f399761ad00e978d177"
                     }
                 },
@@ -1034,7 +1034,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 10557,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
                         "MD5": "d1e81c87cc785a956f5972a3b0d2e7f2"
                     }
                 },
@@ -1044,7 +1044,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 26600,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/FastSuite-1.20.1-5.1.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/FastSuite-1.20.1-5.1.2.jar",
                         "MD5": "efca8ff65bbf93e3a0f776998ee181e9"
                     }
                 },
@@ -1054,7 +1054,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 26329336,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fdbosses-3.1.0.3-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fdbosses-3.1.0.3-1.20.1.jar",
                         "MD5": "b82197ed0d16f30e6022b260ac1d86a5"
                     }
                 },
@@ -1064,7 +1064,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1645858,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fdlib-1.0.8-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fdlib-1.0.8-1.20.1.jar",
                         "MD5": "966022e54f8aeedabe5f05307694525d"
                     }
                 },
@@ -1074,7 +1074,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 123034,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
                         "MD5": "f52f538207a4829d7060550092ce2383"
                     }
                 },
@@ -1084,7 +1084,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 291395,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/flib-1.20.1-0.0.14.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/flib-1.20.1-0.0.14.jar",
                         "MD5": "7bf25b7d60e685fb4f858b82923ca44e"
                     }
                 },
@@ -1094,7 +1094,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17531254,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fluffy_fur-1.20.1-0.2.9.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fluffy_fur-1.20.1-0.2.9.jar",
                         "MD5": "4e906d33a761ccfbc79072846f959ea5"
                     }
                 },
@@ -1104,7 +1104,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 997501,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Forgematica-0.1.13-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Forgematica-0.1.13-mc1.20.1.jar",
                         "MD5": "8def10203e22c87e5820ecf2efd14184"
                     }
                 },
@@ -1114,7 +1114,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 125660,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/FpsReducer2-forge-1.20.1-2.5.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/FpsReducer2-forge-1.20.1-2.5.1.jar",
                         "MD5": "d17bad88d746c21dcd37f16257a1e84d"
                     }
                 },
@@ -1124,7 +1124,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 734768,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fragmentum-forge-1.20.1-0.1.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fragmentum-forge-1.20.1-0.1.2.jar",
                         "MD5": "08df1451579c37034d89acc44eefae2d"
                     }
                 },
@@ -1134,7 +1134,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 791875,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ftb-library-forge-2001.2.10.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ftb-library-forge-2001.2.10.jar",
                         "MD5": "ae5292127a5a0d85d793bbce8f1e24dd"
                     }
                 },
@@ -1144,7 +1144,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 87362,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ftb-ranks-forge-2001.1.7.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ftb-ranks-forge-2001.1.7.jar",
                         "MD5": "b0a342f7fd0fd420094c185d105298c9"
                     }
                 },
@@ -1154,7 +1154,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 544586,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fusion-1.2.12-forge-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fusion-1.2.12-forge-mc1.20.1.jar",
                         "MD5": "aad8a16b48cd54cd75e34bf4f40eec1b"
                     }
                 },
@@ -1164,7 +1164,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2374667,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/fzzy_config-0.7.6+1.20.1+forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/fzzy_config-0.7.6+1.20.1+forge.jar",
                         "MD5": "f48f8112f6e2d161c655b750f6bfd0c8"
                     }
                 },
@@ -1174,7 +1174,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1038979,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
                         "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
                     }
                 },
@@ -1184,7 +1184,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 20295,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/GPUTape-1.18x-1.21x-1.0.5.1.jar",
                         "MD5": "0181fbed11c40debed8ebf5cdc815bab"
                     }
                 },
@@ -1194,7 +1194,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 9413204,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/guideme-20.1.14.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/guideme-20.1.14.jar",
                         "MD5": "6425ddca1593d7f73c7160e54333cfef"
                     }
                 },
@@ -1204,7 +1204,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 100362,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/holdmyitems-1.20.1-4v2.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/holdmyitems-1.20.1-4v2.0.jar",
                         "MD5": "4d9b0e20a08e0af50f5ab5b10d0cb9ec"
                     }
                 },
@@ -1214,7 +1214,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 425140,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
                         "MD5": "a9497bda5f3fd160c248d4a8d4499e15"
                     }
                 },
@@ -1224,7 +1224,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 313256,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/InvMove-0.9.2+1.20.1-Forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/InvMove-0.9.2+1.20.1-Forge.jar",
                         "MD5": "99924ed3a621e564651641e1b15d3bd4"
                     }
                 },
@@ -1234,7 +1234,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 311290,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ironchest-1.20.1-14.4.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ironchest-1.20.1-14.4.4.jar",
                         "MD5": "078fbc43b289995ca4a8cced59bbf0ef"
                     }
                 },
@@ -1244,7 +1244,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 374464,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/irons_patreon_lib-1.20.1-1.0.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/irons_patreon_lib-1.20.1-1.0.1.jar",
                         "MD5": "48325606e0348711a8b371dfe03e3bbf"
                     }
                 },
@@ -1254,7 +1254,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 15187252,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.15.5.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.15.5.1.jar",
                         "MD5": "6909c8cbf2da1d6da2082d5cc0a10dde"
                     }
                 },
@@ -1264,7 +1264,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 55238,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.11_mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ItemPhysic_FORGE_v1.8.11_mc1.20.1.jar",
                         "MD5": "b883a92b9d129c00deecc6df49c2cd29"
                     }
                 },
@@ -1274,7 +1274,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 552486,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
                         "MD5": "7c349670f77fd64b9e9854c4a8d82fcc"
                     }
                 },
@@ -1284,7 +1284,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 91771,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
                         "MD5": "3e2fa5d8b2ec994ba416ec4f84d5ea60"
                     }
                 },
@@ -1294,7 +1294,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1409642,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
                         "MD5": "a5192227a15e0fe0e367828b32c1f472"
                     }
                 },
@@ -1304,7 +1304,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 625185,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                         "MD5": "d69107c593e361e1b7b96733250bd098"
                     }
                 },
@@ -1314,7 +1314,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 7442998,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
                         "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
                     }
                 },
@@ -1324,7 +1324,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 206758,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/KryptonReforged-0.2.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/KryptonReforged-0.2.3.jar",
                         "MD5": "5b6b46d86a9a3858c766182a4cb9c3f1"
                     }
                 },
@@ -1334,7 +1334,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 14789,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
                         "MD5": "0ff799ece663ddafab61ad32704fc51c"
                     }
                 },
@@ -1344,7 +1344,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2041283,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.41.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.41.jar",
                         "MD5": "bf692e0100772cfa90b9878a38c1f28a"
                     }
                 },
@@ -1354,7 +1354,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 476347,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/lithostitched-forge-1.20.1-1.4.11.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/lithostitched-forge-1.20.1-1.4.11.jar",
                         "MD5": "3c596bbc1b5f769f22be751e9c21a6c8"
                     }
                 },
@@ -1364,7 +1364,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 521709,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/MaFgLib-0.1.14-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/MaFgLib-0.1.14-mc1.20.1.jar",
                         "MD5": "739a08ec65e3c5cdd5bfc64adc90947d"
                     }
                 },
@@ -1374,7 +1374,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 4025693,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/mahoutsukai-1.20.1-v1.34.74.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/mahoutsukai-1.20.1-v1.34.74.jar",
                         "MD5": "620e736f13408e36e5d7bd13e297325d"
                     }
                 },
@@ -1384,7 +1384,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1625005,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Mantle-1.20.1-1.11.104.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Mantle-1.20.1-1.11.104.jar",
                         "MD5": "7d5d50ac6c3d8791e494dc5173297d02"
                     }
                 },
@@ -1394,7 +1394,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 387196,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/megacells-forge-2.4.6-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/megacells-forge-2.4.6-1.20.1.jar",
                         "MD5": "c2fbcaaa3c810162602ad709ad31a792"
                     }
                 },
@@ -1404,7 +1404,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 100867,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/mekanism_trimming-1.20.1-1.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/mekanism_trimming-1.20.1-1.0.jar",
                         "MD5": "d21ce5130ce92e204a1f109088e54a20"
                     }
                 },
@@ -1414,7 +1414,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 12558456,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.16.80.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.16.80.jar",
                         "MD5": "3791fb5cf1e8b6f583d3a00d5115d1ee"
                     }
                 },
@@ -1424,7 +1424,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1136805,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/MekanismAdditions-1.20.1-10.4.16.80.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/MekanismAdditions-1.20.1-10.4.16.80.jar",
                         "MD5": "af32e56e97b39d670c9b6cd0bbced4b7"
                     }
                 },
@@ -1434,7 +1434,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1054586,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.16.80.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/MekanismGenerators-1.20.1-10.4.16.80.jar",
                         "MD5": "5ecedb27379b4543b28c0860f9c2fbf4"
                     }
                 },
@@ -1444,7 +1444,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 517999,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/MekanismTools-1.20.1-10.4.16.80.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/MekanismTools-1.20.1-10.4.16.80.jar",
                         "MD5": "5fbc84c81cff26ba2d49c8ac7647f9e4"
                     }
                 },
@@ -1454,7 +1454,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 37178,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
                         "MD5": "6b528d368f7fcbf737df28f2457cdec6"
                     }
                 },
@@ -1464,7 +1464,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 61987,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/midnightlib-forge-1.9.2+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/midnightlib-forge-1.9.2+1.20.1.jar",
                         "MD5": "e4903bab4c3cf86d64cadb21cd4f279e"
                     }
                 },
@@ -1474,7 +1474,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 880557,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/modernfix-forge-5.24.4+mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/modernfix-forge-5.24.4+mc1.20.1.jar",
                         "MD5": "1d729a283f14fdbf1021ff4f0c88b0ec"
                     }
                 },
@@ -1484,7 +1484,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1333455,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/moonlight-1.20-2.16.16-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/moonlight-1.20-2.16.16-forge.jar",
                         "MD5": "cc2852f794f2a3bb835c6507d8276dc4"
                     }
                 },
@@ -1494,7 +1494,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 287393,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/MRU-1.0.4+1.20.1+forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/MRU-1.0.4+1.20.1+forge.jar",
                         "MD5": "4485788a466877a0ddd42d3df84ea913"
                     }
                 },
@@ -1504,7 +1504,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 134885,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/notenoughcrashes-4.4.9+1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/notenoughcrashes-4.4.9+1.20.1-forge.jar",
                         "MD5": "59f7bd924454a832b87998999d58eea7"
                     }
                 },
@@ -1514,7 +1514,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 853869,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/obscure_tooltips-forge-1.20.1-3.1.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/obscure_tooltips-forge-1.20.1-3.1.1.jar",
                         "MD5": "b8511db543c9c325075ff19044486d44"
                     }
                 },
@@ -1524,7 +1524,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 117226,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/oculus-flywheel-compat-Forge-2.0.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/oculus-flywheel-compat-Forge-2.0.3.jar",
                         "MD5": "dd9bfddf81ea63bd5b4267ab7d363f26"
                     }
                 },
@@ -1534,7 +1534,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2851119,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
                         "MD5": "1dd891634ac21591b5a692471f112572"
                     }
                 },
@@ -1544,7 +1544,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 520782,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ok_zoomer-forge-5.4.0-beta.8.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ok_zoomer-forge-5.4.0-beta.8.jar",
                         "MD5": "b7186e5d53962614bc6f1b540715c7ee"
                     }
                 },
@@ -1554,7 +1554,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2307868,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/origins-forge-1.20.1-1.10.0.9-all.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/origins-forge-1.20.1-1.10.0.9-all.jar",
                         "MD5": "354f0f804636e76e1efcd16f2ae245d3"
                     }
                 },
@@ -1564,7 +1564,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1804472,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/origins-plus-plus-2.4-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/origins-plus-plus-2.4-forge.jar",
                         "MD5": "0c6b7c538a0f1ff719266606fbaf2314"
                     }
                 },
@@ -1574,7 +1574,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 190422,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/packetfixer-3.3.0-1.18-1.20.4-merged.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/packetfixer-3.3.0-1.18-1.20.4-merged.jar",
                         "MD5": "75045a749fde88dc20972e34bb815f29"
                     }
                 },
@@ -1584,7 +1584,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 773448,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/particle_core-0.3.3+1.20.1+forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/particle_core-0.3.3+1.20.1+forge.jar",
                         "MD5": "eb8ce770b3ddc793df437bfcec169a6d"
                     }
                 },
@@ -1594,7 +1594,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 642711,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
                         "MD5": "d5154cacf6859582eebd853bd59f5537"
                     }
                 },
@@ -1604,7 +1604,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 671605,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
                         "MD5": "95bdd5558d34044f54aab0ce292e679b"
                     }
                 },
@@ -1614,7 +1614,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 282474,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
                         "MD5": "13133ab9989e8474931cd7a86bd19cc5"
                     }
                 },
@@ -1624,7 +1624,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 181437,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
                         "MD5": "46f8554181d4d240075ea4919d01fd01"
                     }
                 },
@@ -1634,7 +1634,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 299601,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
                         "MD5": "8e93675b33a89243d27f272f84e88338"
                     }
                 },
@@ -1644,7 +1644,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1342987,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
                         "MD5": "19f23e3040eaadc7c30ae38f5a3dec68"
                     }
                 },
@@ -1654,7 +1654,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 3650155,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/quickskin-2.4.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/quickskin-2.4.1.jar",
                         "MD5": "2be65f907b564ccc5538bdff537489c3"
                     }
                 },
@@ -1664,7 +1664,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 136923,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
                         "MD5": "947463b04c043937cd24506842f737a3"
                     }
                 },
@@ -1674,7 +1674,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 432753,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
                         "MD5": "a040c6cc86f653fddf280ff3af9068f0"
                     }
                 },
@@ -1684,7 +1684,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 78667,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar",
                         "MD5": "eb1de31fea515bf8d50a5eed69a9fa1a"
                     }
                 },
@@ -1694,7 +1694,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 277896,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/rrls-4.0.6.1+mc1.20.1-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/rrls-4.0.6.1+mc1.20.1-forge.jar",
                         "MD5": "6ff0f56b3e745f8da8759cda0a70c236"
                     }
                 },
@@ -1704,7 +1704,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 568608,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
                         "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
                     }
                 },
@@ -1714,7 +1714,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 137631,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Satako-7.0.33-1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Satako-7.0.33-1.20.1.jar",
                         "MD5": "e271716e8971f523e299871bba43b369"
                     }
                 },
@@ -1724,7 +1724,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 92319,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/saturn-mc1.20.1-0.1.3.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/saturn-mc1.20.1-0.1.3.jar",
                         "MD5": "56a9a1cc126425b04acc5f8bd7ed67f1"
                     }
                 },
@@ -1734,7 +1734,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 15852918,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/ScalableCatsForce-3.3.1-build-0-with-library.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/ScalableCatsForce-3.3.1-build-0-with-library.jar",
                         "MD5": "ba497035e88135ba4ca8deaee3f4be4e"
                     }
                 },
@@ -1744,7 +1744,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 692365,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/scholar-1.20.1-1.1.9-forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/scholar-1.20.1-1.1.9-forge.jar",
                         "MD5": "80d36c35caeb0087f3f4e0175ce9f94c"
                     }
                 },
@@ -1754,7 +1754,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 221121,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
                         "MD5": "434195aff2ce2f48b3aea5434b281e71"
                     }
                 },
@@ -1764,7 +1764,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 10974911,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Sounds-2.2.1+1.20.1+forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Sounds-2.2.1+1.20.1+forge.jar",
                         "MD5": "ea8427a4988c1f5ad6b5ed7a38b8224d"
                     }
                 },
@@ -1774,7 +1774,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 9999782,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
                         "MD5": "a7d3bbdf204d7957551ad8819c1030a5"
                     }
                 },
@@ -1784,7 +1784,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 206584,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
                         "MD5": "cbece61946d4e059e90806c19dd66082"
                     }
                 },
@@ -1794,7 +1794,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 515362,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
                         "MD5": "6559d43627646f16fbe02de085e98d5c"
                     }
                 },
@@ -1804,7 +1804,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 47826468,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
                         "MD5": "51636447584a75f8d2db2fb930d110b1"
                     }
                 },
@@ -1814,7 +1814,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 107533,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
                         "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893"
                     }
                 },
@@ -1824,7 +1824,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 520148,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
                         "MD5": "9fac0628fc9767b1bc50dbae38851e11"
                     }
                 },
@@ -1834,7 +1834,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2864275,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
                         "MD5": "237a2186d2482856f67c638c06489fb8"
                     }
                 },
@@ -1844,7 +1844,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1276466,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.44.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.44.jar",
                         "MD5": "ba7d64c280d5deb3a34d5ad6c4670aa8"
                     }
                 },
@@ -1854,7 +1854,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 23332091,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
                         "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
                     }
                 },
@@ -1864,7 +1864,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 247183,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/underlay-1.20.1-v0.9.7-f.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/underlay-1.20.1-v0.9.7-f.jar",
                         "MD5": "f03b79f54d73f6a6ff4c8d2f665b1ebb"
                     }
                 },
@@ -1874,7 +1874,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 4902630,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.15.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.15.jar",
                         "MD5": "75702ce810f7de60efa2b061b5cb5c1e"
                     }
                 },
@@ -1884,7 +1884,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 37299940,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/wizards_reborn-1.20.1-0.2.9.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/wizards_reborn-1.20.1-0.2.9.jar",
                         "MD5": "6beb486e3f5d529b322052d27b9c4ab4"
                     }
                 },
@@ -1894,7 +1894,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 1723029,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
                         "MD5": "2b2bfaf3a1872b83c57aaa51c73f10d9"
                     }
                 },
@@ -1904,7 +1904,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 960799,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/forgemods/required/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/forgemods/required/XaerosWorldMap_1.39.12_Forge_1.20.jar",
                         "MD5": "002d9a661be7e982db177d7b0fc8d49e"
                     }
                 },
@@ -1914,7 +1914,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 9353,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip",
                         "MD5": "ad6e682e6d8edda855da4eca3823db5e",
                         "path": "resourcepacks/Icon Branding Remover - For 1.8-1.21.8.zip"
                     }
@@ -1925,7 +1925,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 8614014,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/Icons%20v.1.13.2.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/Icons%20v.1.13.2.zip",
                         "MD5": "45f5c622020c7c1153563fb0c00094a3",
                         "path": "resourcepacks/Icons v.1.13.2.zip"
                     }
@@ -1936,7 +1936,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 7419,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/Icons-Additions-1.2.1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/Icons-Additions-1.2.1.zip",
                         "MD5": "f3bf5308af9bdd722998bdee0a9e26cd",
                         "path": "resourcepacks/Icons-Additions-1.2.1.zip"
                     }
@@ -1947,7 +1947,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 604422,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/MandalasGUI+Darkmode_1.21.5_1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/MandalasGUI+Darkmode_1.21.5_1.zip",
                         "MD5": "59833dd0b3ba75f511e4dc63644b7b9c",
                         "path": "resourcepacks/MandalasGUI+Darkmode_1.21.5_1.zip"
                     }
@@ -1958,7 +1958,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 39520,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/MinecraftTen%201.2%20for%201.20.2-1.21.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/MinecraftTen%201.2%20for%201.20.2-1.21.zip",
                         "MD5": "62920298ca2f5e1afa6d34296ce00ed1",
                         "path": "resourcepacks/MinecraftTen 1.2 for 1.20.2-1.21.zip"
                     }
@@ -1969,7 +1969,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 287387,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/MobCrates_26.1_v2.3.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/MobCrates_26.1_v2.3.zip",
                         "MD5": "c0cfafcc0cbadd44d5444ecdff4b173c",
                         "path": "resourcepacks/MobCrates_26.1_v2.3.zip"
                     }
@@ -1980,7 +1980,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 243522,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/ReApplied.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/ReApplied.zip",
                         "MD5": "b3aa008018679f48e65cf9fe302aa6b6",
                         "path": "resourcepacks/ReApplied.zip"
                     }
@@ -1991,7 +1991,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 106828,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/RPG_Series_Icons-1.4.0+1.21.1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/RPG_Series_Icons-1.4.0+1.21.1.zip",
                         "MD5": "68af7c6f3fcbbbf6b8f51721e0688499",
                         "path": "resourcepacks/RPG_Series_Icons-1.4.0+1.21.1.zip"
                     }
@@ -2002,7 +2002,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 904233,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/Visible%20Ores2.14.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/Visible%20Ores2.14.zip",
                         "MD5": "d6e65411cd7034566c68ce36c7d66cb4",
                         "path": "resourcepacks/Visible Ores2.14.zip"
                     }
@@ -2013,7 +2013,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 264627,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/%C2%A74Draconic%20Re-Evolution%20v1.0.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/%C2%A74Draconic%20Re-Evolution%20v1.0.zip",
                         "MD5": "a7e3898d7a979de82a9251c081d29ebc",
                         "path": "resourcepacks/В§4Draconic Re-Evolution v1.0.zip"
                     }
@@ -2024,7 +2024,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1195419,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
                         "MD5": "99cc6588027bd10150073c3fde01d89a",
                         "path": "resourcepacks/В§6ImmersiveВ§8_В§6InterfacesВ§8.zip"
                     }
@@ -2035,7 +2035,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 43044,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/resourcepacks/%C2%A7b%C2%A7lSpectator%20Xray%20%C2%A77v1.2.1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/resourcepacks/%C2%A7b%C2%A7lSpectator%20Xray%20%C2%A77v1.2.1.zip",
                         "MD5": "e7f0051030c14b3dc3820d2d8ce77009",
                         "path": "resourcepacks/В§bВ§lSpectator Xray В§7v1.2.1.zip"
                     }
@@ -2046,7 +2046,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 13803650,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Arc_v0.15.2.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Arc_v0.15.2.zip",
                         "MD5": "d8cab9ba3572640e1b56a27d1d3692ab",
                         "path": "shaderpacks/Arc_v0.15.2.zip"
                     }
@@ -2057,7 +2057,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 118,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Arc_v0.15.2.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Arc_v0.15.2.zip.txt",
                         "MD5": "778eaac190a1c6162f7f7521db16506c",
                         "path": "shaderpacks/Arc_v0.15.2.zip.txt"
                     }
@@ -2068,7 +2068,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 439882,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
                         "MD5": "1a9612a05bb17db3ad1636c764455448",
                         "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
                     }
@@ -2079,7 +2079,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 123,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt",
                         "MD5": "d52c3979aa72709fca3e267a377d1520",
                         "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
                     }
@@ -2090,7 +2090,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 229,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt",
                         "MD5": "de8ff10aeb360fc35380c755bb05cfa2",
                         "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
                     }
@@ -2101,7 +2101,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 141,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt",
                         "MD5": "b6a4dedec0537d34e0c43020211e72a9",
                         "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
                     }
@@ -2112,7 +2112,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1037373,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
                         "MD5": "97a61aad0133f120e536a420b92d4e88",
                         "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
                     }
@@ -2123,7 +2123,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 116,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip.txt",
                         "MD5": "611c9d480c50f814581cd7aa7883f7f5",
                         "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip.txt"
                     }
@@ -2134,7 +2134,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1842205,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip",
                         "MD5": "38b14a6ce3da2c5b0dfa0fc3018052dd",
                         "path": "shaderpacks/Nostalgia_v5.1.zip"
                     }
@@ -2145,7 +2145,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 108,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip.txt",
                         "MD5": "5a242da5b489f2e001b272e47b464ea2",
                         "path": "shaderpacks/Nostalgia_v5.1.zip.txt"
                     }
@@ -2156,7 +2156,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1023746,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/Pastel-Shaders-Universal-v1.200.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/Pastel-Shaders-Universal-v1.200.zip",
                         "MD5": "f99b5764648634b39669bb25b6a8330c",
                         "path": "shaderpacks/Pastel-Shaders-Universal-v1.200.zip"
                     }
@@ -2167,7 +2167,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1558823,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/photon_v1.0a.zip",
                         "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
                         "path": "shaderpacks/photon_v1.0a.zip"
                     }
@@ -2178,7 +2178,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 169,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
                         "MD5": "225d57290d46cd1efaf313c616ef01d7",
                         "path": "shaderpacks/photon_v1.0a.zip.txt"
                     }
@@ -2189,7 +2189,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 391708,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/PotatoShaders_v1.0c.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/PotatoShaders_v1.0c.zip",
                         "MD5": "0f19d069d31cee4602a7e60a89557d96",
                         "path": "shaderpacks/PotatoShaders_v1.0c.zip"
                     }
@@ -2200,7 +2200,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 393109,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/PotatoShaders_v1.0d.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/PotatoShaders_v1.0d.zip",
                         "MD5": "2925d73d563d8cb80ad49be16935049f",
                         "path": "shaderpacks/PotatoShaders_v1.0d.zip"
                     }
@@ -2211,7 +2211,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 2851664,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/superDuperVanilla.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/superDuperVanilla.zip",
                         "MD5": "00b068ef8600472d52da2c10aab68cb9",
                         "path": "shaderpacks/superDuperVanilla.zip"
                     }
@@ -2222,7 +2222,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 145,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/superDuperVanilla.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/superDuperVanilla.zip.txt",
                         "MD5": "66998fe94d0bac4389b71a3d3773904a",
                         "path": "shaderpacks/superDuperVanilla.zip.txt"
                     }
@@ -2233,7 +2233,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 491587,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/%C2%A7lLITE%20shaders%204.7.2.zip",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/%C2%A7lLITE%20shaders%204.7.2.zip",
                         "MD5": "2487d972593292242ceb44ab43e15901",
                         "path": "shaderpacks/В§lLITE shaders 4.7.2.zip"
                     }
@@ -2244,7 +2244,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 143,
-                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/Universalkraft-full-1.20.1/files/shaderpacks/%C2%A7lLITE%20shaders%204.7.2.zip.txt",
+                        "url": "https://wxdenikxx31-afk.github.io/Universalkraft-full/servers/UniversalCraft-Full-1.20.1/files/shaderpacks/%C2%A7lLITE%20shaders%204.7.2.zip.txt",
                         "MD5": "b36187395ae760b73641e909c1685dc7",
                         "path": "shaderpacks/В§lLITE shaders 4.7.2.zip.txt"
                     }
@@ -4206,3 +4206,4 @@
         }
     ]
 }
+
