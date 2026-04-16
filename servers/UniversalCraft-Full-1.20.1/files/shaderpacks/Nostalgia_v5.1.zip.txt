@@ -1,0 +1,4 @@
+#Wed Apr 15 18:51:32 MSK 2026
+shadowFilterIterations=9
+cloudVolume1Enabled=false
+fogVolumeEnabled=false

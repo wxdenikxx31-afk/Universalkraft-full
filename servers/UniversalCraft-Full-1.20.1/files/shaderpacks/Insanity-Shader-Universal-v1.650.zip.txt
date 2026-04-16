@@ -1,0 +1,6 @@
+#Wed Apr 15 18:47:32 MSK 2026
+shadowDistance=512.0
+LIGHT_SHAFT=true
+shadowMapResolution=4096
+TAA=true
+AO=true

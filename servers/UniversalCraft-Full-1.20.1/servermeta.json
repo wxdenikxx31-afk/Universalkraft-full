@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///C:/Users/danil/DistroRoot-Full/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "UniversalCraft Full",
+    "description": "Полная сборка с шейдерами и ресурспаками",
+    "icon": null,
+    "address": "89.35.130.10:25565",
+    "discord": {},
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
